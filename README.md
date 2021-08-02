@@ -1,6 +1,6 @@
 ### Hi there, I'm Rojan - aka [RojanGamingYT](https://dedsecbot.tk) 👋
 
-[![Website](https://img.shields.io/website?label=codededsecbot.tk&style=for-the-badge&url=https%3A%2F%2Fdedsecbot.tk)](https://dedsecbot.tk)
+[![Website](https://img.shields.io/website?label=dedsecbot.tk&style=for-the-badge&url=https%3A%2F%2Fdedsecbot.tk)](https://dedsecbot.tk)
 
 ## I'm a Learner, Developer, and Teacher!!
 
@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="dedsecbot.tk width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="dedsecbot.tk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="https://instagram.com/RojanGamingYT" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="https://instagram.com/rojangamingyt" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
