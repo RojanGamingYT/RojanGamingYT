@@ -17,3 +17,9 @@
 
 [![Matthew's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RojanGamingYT&count_private=true&show_icons=true&title_color=39ff14&icon_color=79ff97&text_color=fff&bg_color=151515)](https://github.com/RojanGamingYT)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RojanGamingYT&layout=compact)](https://github.com/RojanGamingYT)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
