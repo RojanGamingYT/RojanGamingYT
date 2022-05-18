@@ -16,4 +16,3 @@
 ![RojanGamingYT's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RojanGamingYT&count_private=true&show_icons=true&title_color=39ff14&icon_color=39ff14&text_color=39ff14&bg_color=151515)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RojanGamingYT&count_private=true&show_icons=true&title_color=39ff14&icon_color=79ff97&text_color=fff&bg_color=151515)](https://github.com/RojanGamingYT)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RojanGamingYT&show_icons=true&theme=radical)
