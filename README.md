@@ -1,4 +1,4 @@
-### Hi there, I'm Rojan - aka [RojanGamingYT](https://dedsecbot.tk) 👋
+### Hi there, I'm Rojan - aka [RojanGamingYT](https://rojansapkota.com.np) 👋
 <div align="left"><img alt="RojanGamingYT"src="https://discord.c99.nl/widget/theme-2/882871054081597470.png"></div>
 
 [![Website](https://img.shields.io/website?label=rojansapkota.com.np&style=for-the-badge&url=https%3A%2F%2Frojansapkota.com.np)](https://rojansapkota.com.np)
