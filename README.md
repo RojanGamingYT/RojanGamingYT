@@ -1,6 +1,8 @@
 ### Hi there, I'm Rojan - aka [RojanGamingYT](https://rojansapkota.com.np) 👋
 <div align="left"><img alt="RojanGamingYT"src="https://discord.c99.nl/widget/theme-2/882871054081597470.png"></div>
 
+<iframe src="https://discord.com/widget?id=757950038193340467&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 [![Website](https://img.shields.io/website?label=rojansapkota.com.np&style=for-the-badge&url=https%3A%2F%2Frojansapkota.com.np)](https://rojansapkota.com.np)
 [![Website](https://img.shields.io/website?label=dedsecbot.ml&style=for-the-badge&url=https%3A%2F%2Fdedsecbot.ml)](https://dedsecbot.ml)
 
