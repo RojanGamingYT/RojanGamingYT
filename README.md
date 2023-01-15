@@ -16,6 +16,6 @@
 - ⚡ Fun fact: I love to code and edit videos.
 
 ## My Stats
-![RojanGamingYT's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=RojanGamingYT&count_private=true&show_icons=true&title_color=39ff14&icon_color=39ff14&text_color=39ff14&bg_color=151515)
+![RojanGamingYT's GitHub Stats](https://github-readme-stats-ruby-one.vercel.app/api/?username=RojanGamingYT&count_private=true&show_icons=true&title_color=39ff14&icon_color=39ff14&text_color=39ff14&bg_color=151515)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RojanGamingYT&count_private=true&show_icons=true&title_color=39ff14&icon_color=79ff97&text_color=fff&bg_color=151515)](https://github.com/RojanGamingYT)
+[![Top Languages](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=RojanGamingYT&count_private=true&show_icons=true&title_color=39ff14&icon_color=79ff97&text_color=fff&bg_color=151515)](https://github.com/RojanGamingYT)
