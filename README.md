@@ -10,6 +10,7 @@
 <p align="center">
 <img src="https://profile-counter.glitch.me/RojanGamingYT/count.svg" />
 </p>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRojanGamingYT%2FRojanGamingYT&count_bg=%2379C83D&title_bg=%23555555&icon=v.svg&icon_color=%234ACCC8&title=Profile+Views&edge_flat=false)](https://rojansapkota.com.np)
 
 ## I'm a Learner, Developer, and Teacher!!
