@@ -7,8 +7,11 @@
 [![Website](https://img.shields.io/website?label=rojan.is-a.tech&style=for-the-badge&url=https%3A%2F%2Frojan.is-a.tech)](https://rojan.is-a.tech)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRojanGamingYT%2FRojanGamingYT&count_bg=%2379C83D&title_bg=%23555555&icon=v.svg&icon_color=%234ACCC8&title=Profile+Views&edge_flat=false)](https://rojansapkota.com.np)
-<img src="https://profile-counter.glitch.me/RojanGamingYT/count.svg" />
 
+<h2 align="center">Visitors:</h2>
+<p align="center">
+<img src="https://profile-counter.glitch.me/RojanGamingYT/count.svg" />
+</p>
 
 ## I'm a Learner, Developer, and Teacher!!
 
