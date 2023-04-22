@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/website?label=dedsecbot.ml&style=for-the-badge&url=https%3A%2F%2Fdedsecbot.ml)](https://dedsecbot.ml)
 [![Website](https://img.shields.io/website?label=rojan.is-a.tech&style=for-the-badge&url=https%3A%2F%2Frojan.is-a.tech)](https://rojan.is-a.tech)
 
-Visitors:<h2 align="center">
+<h2 align="center">Visitors:
 <p align="center">
 <img src="https://profile-counter.glitch.me/RojanGamingYT/count.svg" />
 </p>
