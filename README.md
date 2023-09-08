@@ -3,8 +3,7 @@
 
 
 [![Website](https://img.shields.io/website?label=rojansapkota.com.np&style=for-the-badge&url=https%3A%2F%2Frojansapkota.com.np)](https://rojansapkota.com.np)
-[![Website](https://img.shields.io/website?label=dedsecbot.ml&style=for-the-badge&url=https%3A%2F%2Fdedsecbot.ml)](https://dedsecbot.ml)
-[![Website](https://img.shields.io/website?label=rojan.is-a.tech&style=for-the-badge&url=https%3A%2F%2Frojan.is-a.tech)](https://rojan.is-a.tech)
+[![Website](https://img.shields.io/website?label=rojan.thedev.id&style=for-the-badge&url=https%3A%2F%2Frojan.thedev.id)](https://rojan.thedev.id)
 
 <h2 align="center">Visitors:
 <p align="center">
