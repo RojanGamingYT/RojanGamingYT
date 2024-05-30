@@ -5,9 +5,11 @@
 [![Website](https://img.shields.io/website?label=rojansapkota.com.np&style=for-the-badge&url=https%3A%2F%2Frojansapkota.com.np)](https://rojansapkota.com.np)
 [![Website](https://img.shields.io/website?label=rojan.thedev.id&style=for-the-badge&url=https%3A%2F%2Frojan.thedev.id)](https://rojan.thedev.id)
 
-<h2 align="center">Visitors:
-<p align="center">
-<img src="https://profile-counter.glitch.me/RojanGamingYT/count.svg" />
+<h2 align="left">Profile Visitors:</h2>
+<p align="left">
+<a href="https://rojansapkota.com.np" target="_blank">
+<img src="https://profile-counter.glitch.me/RojanGamingYT/count.svg" alt="Visitor Counter"/>
+</a>
 </p>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRojanGamingYT%2FRojanGamingYT&count_bg=%2379C83D&title_bg=%23555555&icon=v.svg&icon_color=%234ACCC8&title=Profile+Views&edge_flat=false)](https://rojansapkota.com.np)</h2>
@@ -17,7 +19,7 @@
 - 🌱 I’m currently learning everything 🤣.
 - 👯 I’m looking to collaborate with other content creators.
 - 🥅 2024 Goals: Contribute more to projects.
-- ⚡ Fun fact: I love to code and edit videos.
+- ⚡ Fun fact: I love to code.
 
 ## My Stats
 ![RojanGamingYT's GitHub Stats](https://readme-stats.clckblog.space/api/?username=RojanGamingYT&count_private=true&show_icons=true&title_color=39ff14&icon_color=39ff14&text_color=39ff14&bg_color=151515)
