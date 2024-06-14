@@ -1,4 +1,4 @@
-### Hi there, I'm Rojan - aka [RojanGamingYT](https://rojansapkota.com.np) 👋
+### Hi there, I'm Rojan - aka [RojanGamingYT](https://rojansapkota.com.np)
 <div align="left"><img alt="RojanGamingYT"src="https://discord.c99.nl/widget/theme-2/882871054081597470.png"></div>
 
 
@@ -12,8 +12,6 @@
 </a>
 </p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRojanGamingYT%2FRojanGamingYT&count_bg=%2379C83D&title_bg=%23555555&icon=v.svg&icon_color=%234ACCC8&title=Profile+Views&edge_flat=false)](https://rojansapkota.com.np)</h2>
-
 ## I'm a Learner, Developer, and Teacher!!
 
 - 🌱 I’m currently learning everything 🤣.
@@ -25,3 +23,7 @@
 ![RojanGamingYT's GitHub Stats](https://readme-stats.clckblog.space/api/?username=RojanGamingYT&count_private=true&show_icons=true&title_color=39ff14&icon_color=39ff14&text_color=39ff14&bg_color=151515)
 
 [![Top Languages](https://readme-stats.clckblog.space/api/top-langs/?username=RojanGamingYT&count_private=true&show_icons=true&title_color=39ff14&icon_color=79ff97&text_color=fff&bg_color=151515)](https://github.com/RojanGamingYT)
+
+### Top Repositories
+
+<div width="100%" align="center"><a href="https://github.com/RojanGamingYT/Discord-Username-Sniper" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RojanGamingYT&repo=Discord-Username-Sniper&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
