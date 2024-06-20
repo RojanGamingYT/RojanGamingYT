@@ -12,6 +12,7 @@ I'm a Learner, Developer, and Teacher!!
 * 🚀  I'm currently working on [Many Freelance Projects](http://techferr.github.io)
 * 🧠  I'm learning about new upcoming and recent technology
 * 🤝  I'm open to collaborating on interesting projects.
+* 🥅  2024 Goals: Contribute more to projects.
 * ⚡  Fun fact: I love to code.
 
 
@@ -23,13 +24,6 @@ I'm a Learner, Developer, and Teacher!!
 <img src="https://profile-counter.glitch.me/RojanGamingYT/count.svg" alt="Visitor Counter"/>
 </a>
 </p>
-
-## I'm a Learner, Developer, and Teacher!!
-
-- 🌱 I’m currently learning everything 🤣.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2024 Goals: Contribute more to projects.
-- ⚡ Fun fact: I love to code.
 
 ## My Stats
 ![RojanGamingYT's GitHub Stats](https://readme-stats.clckblog.space/api/?username=RojanGamingYT&count_private=true&show_icons=true&title_color=39ff14&icon_color=39ff14&text_color=39ff14&bg_color=151515)
