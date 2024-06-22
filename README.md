@@ -25,7 +25,7 @@ I'm a Learner, Developer, and Teacher!!
 </a>
 </p>
 
-## My Stats
+## 📊 My Github Stats
 ![RojanGamingYT's GitHub Stats](https://readme-stats.clckblog.space/api/?username=RojanGamingYT&count_private=true&show_icons=true&title_color=39ff14&icon_color=39ff14&text_color=39ff14&bg_color=151515)
 
 [![Top Languages](https://readme-stats.clckblog.space/api/top-langs/?username=RojanGamingYT&count_private=true&show_icons=true&title_color=39ff14&icon_color=79ff97&text_color=fff&bg_color=151515)](https://github.com/RojanGamingYT)
