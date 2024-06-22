@@ -1,5 +1,5 @@
-Hi there, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Rojan - aka [RojanGamingYT](https://rojansapkota.com.np)
-=============================================================================================================================
+### <h1> Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Rojan - aka [RojanGamingYT](https://rojansapkota.com.np)</h1>
+
 <div align="left"><img alt="RojanGamingYT"src="https://discord.c99.nl/widget/theme-2/882871054081597470.png"></div>
 <b>"Life is binary; you're either a 0 or a 1" - Rojan</b></br>
 
